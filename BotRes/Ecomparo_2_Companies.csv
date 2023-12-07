@@ -1,0 +1,983 @@
+Section Name,Description,Company Name,Text Information
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",4sellers - logic-base GmbH,
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",Afterbuy - ERP,
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",Billbee,
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",cateno,
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",Cludes,
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",e-matters,e-matters eCommerce Suite
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",e-vendo AG,e-matters eCommerce Suite
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",JTL Software (Wawi),e-matters eCommerce Suite
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",Pickware (Shopware ERP),e-matters eCommerce Suite
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",Plentymarkets,e-matters eCommerce Suite
+Anbieter,"Wenn Sie nur einen Teil der auf ecomparo vergleichbaren Anbieter & Lösungen zum Vergleich heranziehen möchten,
+so können Sie Systeme, die für Sie nicht von Interesse sind, hier abwählen.",Rowisoft,e-matters eCommerce Suite
+Art der benötigten Lösung,"Hier können Sie wählen ob Sie einen bestimmten Typ an E-Commerce-Lösungen suchen. Bitte beachten Sie,
+dass die Auswahl von mehr als einem ""MUSS""-Kriterium die Lösungs-Anzahl in der Vergleichsansicht sehr stark
+reduziert.",Auf Dritt-Server installierbar,"Gibt an, ob die Software auch auf einem Anbieterfremden Sever installiert werden kann. (Kosten)"
+Art der benötigten Lösung,"Hier können Sie wählen ob Sie einen bestimmten Typ an E-Commerce-Lösungen suchen. Bitte beachten Sie,
+dass die Auswahl von mehr als einem ""MUSS""-Kriterium die Lösungs-Anzahl in der Vergleichsansicht sehr stark
+reduziert.",Cloud E-Commerce Plattform,"Unter diesen Typ fallen Lösungen, die flexible App-Erweiterungen in der Cloud anbieten."
+Art der benötigten Lösung,"Hier können Sie wählen ob Sie einen bestimmten Typ an E-Commerce-Lösungen suchen. Bitte beachten Sie,
+dass die Auswahl von mehr als einem ""MUSS""-Kriterium die Lösungs-Anzahl in der Vergleichsansicht sehr stark
+reduziert.",Kauflösung (Einmal Zahlung),"Unter den Typ Kauflösung fallen E-Commerce Lösungen, die Sie in der Regel per einmaliger Zahlung erwerben oder lizenzieren müssen."
+Art der benötigten Lösung,"Hier können Sie wählen ob Sie einen bestimmten Typ an E-Commerce-Lösungen suchen. Bitte beachten Sie,
+dass die Auswahl von mehr als einem ""MUSS""-Kriterium die Lösungs-Anzahl in der Vergleichsansicht sehr stark
+reduziert.",Kostenlose Lösung (Freemium),"Unter diesen Typ fallen Lösungen, die Sie (meist in der Basisversion) komplett kostenfrei einsetzen können."
+Art der benötigten Lösung,"Hier können Sie wählen ob Sie einen bestimmten Typ an E-Commerce-Lösungen suchen. Bitte beachten Sie,
+dass die Auswahl von mehr als einem ""MUSS""-Kriterium die Lösungs-Anzahl in der Vergleichsansicht sehr stark
+reduziert.",Mietlösung/ SaaS,"Unter diesen Typ fallen Lösungen, die Sie in der Regel von einem Anbieter gegen ein monatliches Mietentgelt erhalten. Da in der Praxis die beiden Begriffe zunehmend synonym verwendet werden, findet hier keine Unterscheidung statt."
+Art der benötigten Lösung,"Hier können Sie wählen ob Sie einen bestimmten Typ an E-Commerce-Lösungen suchen. Bitte beachten Sie,
+dass die Auswahl von mehr als einem ""MUSS""-Kriterium die Lösungs-Anzahl in der Vergleichsansicht sehr stark
+reduziert.",Open Source - Lösung,"Unter den Typ Open Source fallen Lösungen, deren Quellcode offen liegt und dadurch selbst und unabhängig von dem Hersteller weiterentwickelt und angepasst werden kann. Dazu gehören auch kostenlose Community-Versionen von kostenpflichtigen Anbietern."
+Art der Umsetzung,"Wählen Sie hier zwischen den verschiedenen Arten der Umsetzung und filtern Sie alle Lösungen nach der
+gewünschten Umsetzungsart.",Out of the Box - fähig,Diese Art von Lösungen kann innerhalb kürzester Zeit ohne Agentur oder Projektaufwand umgesetzt werden.
+Art der Umsetzung,"Wählen Sie hier zwischen den verschiedenen Arten der Umsetzung und filtern Sie alle Lösungen nach der
+gewünschten Umsetzungsart.",Projektbasierte Umsetzung notwendig/ sinnvoll,"Gibt an, ob die E-Commerce Lösung einer längeren Phase der Implementierung und Anpassung bedarf. (Meist bei umfangreichen und größeren E-Commerce Lösungen)"
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Software-Updates/ Versions-Upgrades enthalten (Kosten),"Gibt an, ob im Tarif Updates enthalten sind oder ob diese kostenpflichtig sind. Zahlen bedeuten Kosten pro Monat."
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Einrichtungsgebühr / Setup/ Startgebühr,"Gibt an, ob im Tarif Updates enthalten sind oder ob diese kostenpflichtig sind. Zahlen bedeuten Kosten pro Monat."
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Fixgebühr je verkauftem Artikel/ Auftrag,"Gibt an, ob und in welcher Höhe beim Tarif beim Verkauf von Waren ein fixer Betrag je verkauftem Artikel (unabhängig vom Artikelpreis) anfällt."
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Gebühren Multichannel Funkion,"Gibt an, ob beim Tarif zur Nutzung der Multichanel-Anbindung weitere Gebühren anfallen. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Grundgebühr pro Monat (Subscription),"Gibt an, ob und in welcher Höhe beim Tarif eine monatliche Grundgebühr anfällt. Der hier genannten Betrag ist ein minimal-Betrag, der sich z.B. bei modularen Leistungserweiterungen erhöhen kann."
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Kaufpreis/ einmaliger Lizenzpreis,Einmaliger Kaufpreis der Software bzw. Nutzungslizenz
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Mindestvertragslaufzeit (in Monaten),"Gibt an, ob und auf wieviele Monate sich bei der Nutzung des Tarifs die Mindestvertragslaufzeit beläuft."
+Gebühren - Lizenzen,"Die angegebenen Preise sind Nettopreise in Euro ohne Mwst. und beziehen sich bei ausländischen Unternehmen auf die
+Angabe einer Umsatzsteuer-ID. Ohne diese Angabe können sich andere Gebühren ergeben. Gerundete Preise ohne
+tagesaktuelle Währungsumrechnung.",Verkaufsprovision/ Umsatzbeteiligung (Kategorieunabhängig),"Gibt an, ob und in welcher Höhe beim Tarif beim Verkauf von Waren kategorieunabhängig ein prozentualer Betrag des Brutto-Verkaufspreises (=Bestellwert) je verkauftem Artikel als Gebühr anfällt. Beachten Sie bitte, dass die Provisionshöhe auf den Netto-Verkaufspreis größer ist."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Aktuelle Aktionen - Link (falls vorhanden),"Hier finden Sie, falls ein Rabattaktion vorhanden ist, den Direktlink."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Als Whitelabel Lösung für Agenturen/ Reseller einsetzbar,"Gibt an, ob der Anbieter die Software als Whitelabel-Lösung anbietet."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Durch Extensions zu Dritt-Dienstleistern erweiterbar (Anzahl Module/ Apps/ Plugins),"Gibt an, ob zur Funktionserweiterung des Shop-Tarifs ein Plugin-Store existiert. Zahlen entsprechen der Anzahl verfügbarer Extensions/Erweiterungen."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",GDPdU testiert,Grundsätze zum Datenzugriff und zur Prüfbarkeit digitaler Unterlagen
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Individuelle Programmanpassungen an Unternehmensanforderungen,"Gibt an, ob ein bestimmtes Kontigent (Mann-Stunden) für die Entwicklung oder Implementierung von Sonderwünschen enthalten sind."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Kostenfreier Testzeitraum,Bei vielen Tarifen ist ein unverbindlicher kostenfreier Test möglich.
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Software-Anbieter ist gleichzeitg Generalunternehmer des E-Commerce Projekts,Die notwendige Absprache und Implementierung von Drittanbieter-Services übernimmt der E-Commerce Solutions Anbieter selbst.
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Spezialisierung des Anbieters auf bestimmte Warengruppe/ Branche,"Gibt an, ob der Tarif für den Vertrieb von bestimmten Warengruppen(z.B. Apothekenartikeln) spezialisiert ist."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Testimonials - Link,Hier finden Sie einen Direkt-Link zur Testimonials/ Anwenderfeedback.
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Anzahl Gewerblicher Nutzer/ Kunden,"Falls der jeweilige Anbieter die Anzahl seiner gewerblichen Kunden veröffentlicht, werden diese hier genannt."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Besonderheiten,"Gibt an, ob der Tarif ein besonderes Alleinstellungsmerkmal oder eine Besonderheit aufweist."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Firmensitz (Land) des Anbieters (rechtlich),"Gibt an, ob der Tarif ein besonderes Alleinstellungsmerkmal oder eine Besonderheit aufweist."
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Rechtsform,Rechtsform des Anbieters
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Referenzen,Rechtsform des Anbieters
+Informationen zum Tarif & Anbieter,"Diese Gruppe beinhaltet Vergleichskriterien, die Aufschluss über grundlegende Eigenschaften zum jeweiligen Anbieter
+und Tarif geben.",Referenzen - Link,Hier finden Sie einen Direkt-Link zur Referenz-Webseite des jeweiligen Tarifs.
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Detaillierte FAQ,"Gibt an, ob die Leistungen und Einstellungen durch eine umfangreiche FAQ Sammlung unterstützt werden."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Dokumentation/ Anleitung/ Handbuch vorhanden,"Gibt an, ob die Leistungen und Einstellungen durch eine umfangreiche FAQ Sammlung unterstützt werden."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",E-Commerce Weiterbildung und individuelle Beratung enthalten,"Gibt an, ob der Tarif Weiterbildungen und strategische Wissensvermittlung für Shopbetreiber enthält oder anbietet."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Individueller Support via Email/ Ticket,Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat.
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Offizielles Forum (Art),Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat.
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Persönlicher Ansprechpartner,"Gibt an, ob der Tarif eine persönlichen Ansprechpartner beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Persönlicher Support via Chat,"Gibt an, ob der Tarif eine persönlichen Ansprechpartner beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Setup-Hilfe für Einsteiger direkt im System,"Gibt an, ob der Tarif implementierte Guides oder ""was muss noch gemacht werden"" Schritte enthält um so Einsteiger zum perfekten Shop zu führen."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Support via Knowledge base/ Tutorials,"Gibt an, ob der Tarif Tutorials oder eine Knowledge Base zum Wissenstransfer beinhaltet."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Support via Social Media (Facebook etc.),"Gibt an, ob der Tarif Tutorials oder eine Knowledge Base zum Wissenstransfer beinhaltet."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Support via Telefon,"Gibt an, ob der Tarif Support via Telefon beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Support via Vor-Ort-Schulung,"Gibt an, ob der Tarif eine Vor-Ort-Schulung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Support via Webinar,"Gibt an, ob Webinare im Shop-Tarif enthalten sind."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Support via Wiki,"Gibt an, ob Webinare im Shop-Tarif enthalten sind."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Technischer 24/7-Echtzeit-Support,"Gibt an, ob der Tarif ein 24h Support beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Supportleistungen & Beratung durch Anbieter (erweitert),"Diese Gruppe gibt Aufschluss über die im jeweiligen Tarif enthaltenen Supportleistungen. Zahlen bedeuten
+Zusatzkosten pro Monat.",Technischer Support/ Service/ Wartung,"Gibt an, ob der Tarif allgemein technischen Support beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Artikel - Features (erweitert),,Artikel nur von bestimmten Kunden bestellbar - Artikelattribut,"Gibt an, ob der sichtbare Artikel durch Kunden bestellt werden kann oder nicht."
+Artikel - Features (erweitert),,Artikel von Werbemaßnahmen/ Rabatten ausschließbar,"Gibt an, ob Sie bei generellen Preisaktionen bestimmte Artikel ausschließen können."
+Artikel - Features (erweitert),,Artikelattribut Dropship-Artikel/ Direktlieferungen inkl. Standardlieferant,"Gibt an, ob Sie bei generellen Preisaktionen bestimmte Artikel ausschließen können."
+Artikel - Features (erweitert),,Artikelvorlagen/ vordefinierte Produkttypen,"Gibt an, ob Sie bei generellen Preisaktionen bestimmte Artikel ausschließen können."
+Artikel - Features (erweitert),,Attribut Verpackungseinheiten (VE/ VPE/ Gebindegröße),"Gibt an, ob ein Produkt in unterschiedlichen Verpackungseinheiten/ Gebindegrößen (Karton, Palette, Einzelstück) angeboten/ verwaltet werden kann, ohne dass ein separater Artikel angelegt werden muss. Im Unterschied zu einer Verpackungseinheit (z.b. Karton) ist ein Gebinde z.B. durch einen eigenständigen EAN Code gekennzeichnet."
+Artikel - Features (erweitert),,Auftragsfertigungs-Prozesse abbildbar (Individualisierte Produkte),"Bieten Sie Ihren Käufern Artikel an, die Sie erst noch für Sie herstellen."
+Artikel - Features (erweitert),,Automatische Bildgrößenskalierung (Harmonisierung),"Gibt an, ob der Tarif eine automatische Skalierung/ Vereinheitlichung von Produktbildern beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Artikel - Features (erweitert),,Automatisches Einfügen von Wasserzeichen in Bilder,"Gibt an, ob der Tarif automatisch ein Wasserzeichen zur identifizierung in alle Bilder integrieren kann."
+Artikel - Features (erweitert),,"Dateianhänge für Kunden (pdf Dokumente, Handbuch, etc.) aus System möglich (Anhangsressourcen)","Dieses Feature ermöglicht es, Downloads(z.B. Handbücher) ergänzend zu Artikeln zu verwalten und anzubieten. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Artikel - Features (erweitert),,Default-Variante definierbar (Variantenpriorität),Ermöglicht unterschiedliches Handling und Darstellung von Varianten. Z.B. kann eine Variante als Standard eingestellt werden.
+Artikel - Features (erweitert),,"Download- Artikel (ESD) möglich (Digitale, virtuelle Produkte)","ESD = Electronic Software Distribution und gibt Aufschluss darüber, ob der Shoptarif den Verkauf von Download-Artikel ermöglicht."
+Artikel - Features (erweitert),,Eigene Artikelattribute/ Artikelfelder/ Eigenschaften definierbar (Anzahl),"Dieses Feature ermöglicht es, Artikelattribute je Artikel zu definieren, zu verwalten und dem Kunden beim Kaufprozess anzubieten. (Beispiel Displaygröße) Etwaige angegebene Werte = max. Anzahl."
+Artikel - Features (erweitert),,Globale Varianten definierbar für Produkte oder Kategorien,"Globale Varianten sind Varianten wie Farbe, Gewicht, etc. die für alle Artikel global nur einmal definiert werden müssen."
+Artikel - Features (erweitert),,Gratis-Zugaben/ Prämienartikel/ kostenfreie Beigaben/ Natural Rabatte,"Gibt an, ob ab einem bestimmten Warenkorbwert automatisch bestimmte Gratis-Artikel hinzugefügt werden können."
+Artikel - Features (erweitert),,Grundpreis-Angabe - Funktion (Preis pro Maßeinheit),"Gibt an, ob ab einem bestimmten Warenkorbwert automatisch bestimmte Gratis-Artikel hinzugefügt werden können."
+Artikel - Features (erweitert),,Grundpreis-Berechnung (Automatisch),"Gibt an, ob der Tarif die automatische Berechnung des in manchen Laendern vorgeschriebenen Grundpreises ermoeglicht."
+Artikel - Features (erweitert),,ISBN Code - Artikelattribut und Verwaltung,"Gibt an, ob der Tarif die automatische Berechnung des in manchen Laendern vorgeschriebenen Grundpreises ermoeglicht."
+Artikel - Features (erweitert),,Kategoriezuordnung mit Sortimentsfilter,"Gibt an, ob Sie Artikel nach Artikelattributen (z.B. Preis kleiner als 20 Euro) gruppiert in einer Kategorie darstellen können."
+Artikel - Features (erweitert),,Kundenspezifische Downloads,"Gibt an ob je Artikel für unterschiedliche Kunden unterschiedliche Downloads (Software, Manuals) definiert werden können."
+Artikel - Features (erweitert),,Kundenspezifische Produktsortimente / Katalogzugriffs-Berechtigungen,"Gibt an ob je Artikel für unterschiedliche Kunden unterschiedliche Downloads (Software, Manuals) definiert werden können."
+Artikel - Features (erweitert),,Länderspezifische Verfügbarkeit je Artikel /Lieferländer begrenzen (Blacklist),"Gibt an, ob der Versand je Artikel auf bestimmte Ländern eingeschränkt werden kann."
+Artikel - Features (erweitert),,Marken-/ Herstellerverzeichnis (MPN) enthalten,"Gibt an, ob der Versand je Artikel auf bestimmte Ländern eingeschränkt werden kann."
+Artikel - Features (erweitert),,Maximale Bestellmenge je Artikel definierbar,"Gibt an, ob der Versand je Artikel auf bestimmte Ländern eingeschränkt werden kann."
+Artikel - Features (erweitert),,Maximaler Bestellwert definierbar,"Gibt an, ob der Versand je Artikel auf bestimmte Ländern eingeschränkt werden kann."
+Artikel - Features (erweitert),,Mehrere Dateien je Digitalprodukt möglich (Anzahl),"Gibt an wieviele Dateien zum Download eines Download-, bzw. Digitalen-Artikels hinterlegt werden können."
+Artikel - Features (erweitert),,Mehrfachzuordnung eines Artikel zu mehreren Kategorien ohne dass zwei URLs entstehen,"Gibt an, ob der Tarif eine Zuorndung eines Artikels in unterschiedliche Kategorien ermöglicht ohne dass zwei URLs mit identischer Produktbeschreibung entstehen. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Artikel - Features (erweitert),,Mindestbestellwert definierbar,"Gibt an, ob der Tarif die Definition eines Mindestbestellwerts im Warenausgang ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Artikel - Features (erweitert),,Multidimensionale Artikelvarianten (Anzahl) - Multivarianten,"Gibt an, ob und welche Gesamtanzahl an multidimensionalen Artikelvarianten (z.B. Kleid in Blau, Größe 38, Muster X,etc.) je Artikel unterstützt werden."
+Artikel - Features (erweitert),,Produktunterkategorien erstellbar,"Gibt an, ob und welche Gesamtanzahl an multidimensionalen Artikelvarianten (z.B. Kleid in Blau, Größe 38, Muster X,etc.) je Artikel unterstützt werden."
+Artikel - Features (erweitert),,UPC Codes - Artikelattribut und Verwaltung,"Gibt an, ob und welche Gesamtanzahl an multidimensionalen Artikelvarianten (z.B. Kleid in Blau, Größe 38, Muster X,etc.) je Artikel unterstützt werden."
+Artikel - Features (erweitert),,Vorbestellung von Artikeln möglich,"Gibt an, ob und welche Gesamtanzahl an multidimensionalen Artikelvarianten (z.B. Kleid in Blau, Größe 38, Muster X,etc.) je Artikel unterstützt werden."
+Artikel - Features (erweitert),,"Wiederkehrende Bestellungen/ Abonnements/ Abos veräußerbar (Automatisch wiederkehrende Bestellauslösung + Terminierung, Produkt-Abonnements, Scheduling, Subscriptions)","Gibt an, ob der Tarif den Verkauf Abonnements-Artikeln ermöglicht. Auswahl des Zeitraums für das Abonnement anstelle des Mengenfeldes."
+Artikel - Features (erweitert),,Maximal mögliche Produktanzahl/ Artikelanzahl (SKUs) je Tarif,"Gibt an, ob der Tarif eine unbegrenzte Anzahl an Artikeln beinhaltet. Etwaige angegebene Werte entsprechen der maximalen Anzahl an Artikeln."
+Artikel - Features (erweitert),,Maximale Anzahl Warengruppen/ Produkt-Kategorien,"Gibt an, ob der Tarif eine unbegrenzte Anzahl an Warengruppen ermöglicht. Etwaige angegebene Werte entsprechen der maximalen Anzahl an Kategorien."
+Kunden - Usability (erweitert),"Hier finden Sie die Kriterien, die Einfluss auf Benutzerfreundlichkeit des Tarifs haben.",Artikelkatalog/ Preislisten als PDF-exportierbar,
+Kunden - Usability (erweitert),"Hier finden Sie die Kriterien, die Einfluss auf Benutzerfreundlichkeit des Tarifs haben.",BezahlCode.de - Automischer QR-Code Zahlungslink auf Dokumenten,
+Kunden - Usability (erweitert),"Hier finden Sie die Kriterien, die Einfluss auf Benutzerfreundlichkeit des Tarifs haben.",Direktbestellformular/ Bestellliste/ Schnellbestellung mit Artikelnummern,"Gibt an, ob der Tarif Bestellungen via Bestellformular (Eingabe von Artikelnnummern) ermöglicht."
+Kunden - Usability (erweitert),"Hier finden Sie die Kriterien, die Einfluss auf Benutzerfreundlichkeit des Tarifs haben.",E-Mail bei Wiederverfügbarkeit eines Produkts (Benachrichtigung),"Gibt an, ob Interessenten sich bei Eingabe Ihrer E-Mail-Adresse über die Wiederverfügbarkeit von Artikeln wieder informieren lassen können."
+Kunden - Usability (erweitert),"Hier finden Sie die Kriterien, die Einfluss auf Benutzerfreundlichkeit des Tarifs haben.",QR-Code Sticker für Nachbestellfunktion oder Direktbestellfunktion,Zur Bestellung des Druckers kann beispielsweise ein QR-Code-Sticker für den Toner beigelegt werden. Dieser Kann beim Drucker angebracht werden und führt nach dem Scan direkt in den Checkout.
+Bestellprozess & Rechnungsstellung (erweitert),,Aktueller Tracking-Status der Sendung im System,"Gibt an, ob der Livestatus de Sendung im Shopsystem dargestellt und syncronisiert wird."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatische Bestell-Freigabe nach Regeln,"Gibt an, ob der Shoptarif die Möglichkeit beinhaltet, Kriterien für Bestellung zu definieren, bei denen Bestellungen direkt bestätigt und freigegeben werden ohne dass eine manuelle Überprüfung stattfinden muss."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatische Bestellbestätigungsmail,"Gibt an, ob der Shoptarif die Möglichkeit beinhaltet, Kriterien für Bestellung zu definieren, bei denen Bestellungen direkt bestätigt und freigegeben werden ohne dass eine manuelle Überprüfung stattfinden muss."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatische Rechnungserstellung,"Gibt an, ob der Shop-Tarif den automatischen Versand von Rechnungen(z.B. per PDF-Dokument) per E-Mail beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatische SMS Benachrichtigungen für Kunden (SMS aus System),"Gibt an, ob der Tarif eine SMS Funktion zur Mitteilung z.B. des Bestellstatus beinhaltet."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatische Zusendung der Sendungsnummer zur Sendungsverfolgung (Tracking-URL) per E-Mail,"Gibt an, ob der Shop-Tarif den automatischen Versand von Paket-Trackinginformation per E-Mail ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatischer Druck von Versandlabels/ Versandetiketten/ Paketaufkleber,"Gibt an, ob der Shop-Tarif den automatischen Druck von Versandlabels beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatischer Rechnungsversand per E-Mail (pdf) wählbar,"Gibt an, ob der Shop-Tarif den automatischen Druck von Versandlabels beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Automatisches Prüfen von Lieferadressen-(Adress-Validierung),"Gibt an, ob der Shop-Tarif eine funktionsfertige Prüfung von Lieferadressen während des Bestellvorgangs ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Barcode auf Rechnungen/ Lieferscheinen,Auf jede Rechnung wird von der Software ein Barcode gedruckt um anhand des Barcodes die Bestelldetails schneller einsehen zu können.
+Bestellprozess & Rechnungsstellung (erweitert),,Batch/ Bulk - Vorgänge (gebündelt),"Gibt an, ob der Tarif Batch-Vorgänge ermöglicht."
+Bestellprozess & Rechnungsstellung (erweitert),,Bestell-Bearbeitung Mitarbeiter zuordenbar,"Gibt an, ob der Tarif die Zuordnung von Bestellungen und bearbeitenden Mitarbeitern beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Bestellstatus-Arten frei definierbar,"Gibt an, ob der Tarif die Zuordnung von Bestellungen und bearbeitenden Mitarbeitern beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,"Bestellungsdetails (Lieferadresse, Warenkorb, Versanddienstleister, Versteuerung und Zahlstatus) im System änderbar (Fehlerkorrektur)","Dieses Feature ermöglicht es, Bestellungen bei der Abarbeitung manuell zu korrigieren und anzupassen. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Eine Rechnung für mehrere Bestellungen erstellbar (Sammelrechnung),"Gibt an, ob die Erstellung einer Sammelrechnung für mehrere Bestellungen möglich ist."
+Bestellprozess & Rechnungsstellung (erweitert),,Elektronische Signatur von Belegen,"Gibt an, ob der Tarif eine Signatur von Belegen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Erstellung von Belegen (Rechnungen & Gutschriften) (auch pdf),"Gibt an, ob der Tarif das schreiben von Rechnungen ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Erstellung von Rechnungskorrekturen/ Rechnungsstornierungen möglich,"Gibt an, ob der Tarif die Erstellung von Rechnungskorrekturen ermöglicht. Bitte beachten Sie die (steuerrechtliche) Unterschiede von Gutschriften und Rechnungskorrekturen."
+Bestellprozess & Rechnungsstellung (erweitert),,Individualisierte Bestellbestätigungsmail vor Versand möglich,"Gibt an, ob der Tarif die Erstellung von Rechnungskorrekturen ermöglicht. Bitte beachten Sie die (steuerrechtliche) Unterschiede von Gutschriften und Rechnungskorrekturen."
+Bestellprozess & Rechnungsstellung (erweitert),,Limit für Rechnungszahlung pro Kunde einstellbar,"Gibt an, ob der Tarif eine Limitierung von Rechnungsbeträgen je Kunde beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Manuelles Anlegen von Bestellungen (z.B. für Telefon-Bestellungen),"Gibt an, ob der Tarif eine Limitierung von Rechnungsbeträgen je Kunde beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Mehrere Lieferadressen je Bestellung möglich,"Gibt an, ob der Tarif eine unterschiedliche Zusendung von Artikeln zu mehreren Lieferadressen."
+Bestellprozess & Rechnungsstellung (erweitert),,Verwaltung der Bestellhistorie (im Backend),"Gibt an, ob der Tarif eine Verwaltung von abgeschlossenen Bestellungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Bestellprozess & Rechnungsstellung (erweitert),,Zahlungsarten je Produkt/ Kategorie definierbar,"Gibt an, ob der Tarif die Festlegung von bestimmten Zahlungsarten je Produkt ermöglicht."
+Bestellprozess & Rechnungsstellung (erweitert),,Zahlungsarten nur ab/ bis zu bestimmten Gesamtbestellwert/ Warenkorbwert,"Gibt an, ob der Tarif die Festlegung von bestimmten Zahlungsarten je Produkt ermöglicht."
+Preisgestaltung - Features (erweitert),,"""Preis auf Anfrage""/ Angebot anfordern - Artikelattribut, Preisanfrage",
+Preisgestaltung - Features (erweitert),,Definition von Preisrundungsregeln (Runden),"Gibt an, ob der Tarif eine Rundungsfunktion für Preise beinhaltet, welche eine optisch ansprechende Darstellung von Preisendungen ermöglicht."
+Preisgestaltung - Features (erweitert),,Direkte Streichpreiseingabe möglich (bei Sonderangeboten),"Gibt an, ob je Artikel die Eingabe und Darstellung eines Streichpreises moeglich ist."
+Preisgestaltung - Features (erweitert),,Kundengruppenabhängige Produktpreise/ Rabatte,"Gibt an, ob der Tarif Funktionen zur unterschiedlichen Bepreisung je Kundengruppe beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,"Kundenspezifische Produktpreise/ Rabatte (Rahmenvertrag, Preisgruppen)","Gibt an, ob für bestimmten Kunden abweichende Preise oder Rabatte definiert werden können."
+Preisgestaltung - Features (erweitert),,Länderspezifische Produktpreise /Rabatte,"Gibt an, ob für bestimmten Kunden abweichende Preise oder Rabatte definiert werden können."
+Preisgestaltung - Features (erweitert),,Mindermengenzuschlag definierbar,"Gibt an, ob der Tarif einen Mindermengenzuschlag bei niedrigpreisigen Warenkörben beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,Optimierte Zuweisung von Rabatten/ im Stapel,"Gibt an, ob der Tarif eine schnelle Zuweisung von Rabatten zu Artikeln ermoeglicht."
+Preisgestaltung - Features (erweitert),,Preis Auf- oder Abschläge bei Varianten nach Gewicht,"Gibt an, ob der Tarif eine schnelle Zuweisung von Rabatten zu Artikeln ermoeglicht."
+Preisgestaltung - Features (erweitert),,Produkt-Mengenrabatte/ Staffelpreise definierbar,"Gibt an, ob der Tarif Funktionen zur Rabattierung von Großbestellungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,Repricing-Funktion/ Tiefstpreis-Automatik bei Amazon,"Gibt an, ob der Tarif Funktionen zur Rabattierung von Großbestellungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,Staffelpreiskriterien frei definierbar,"z.B. Unterschiedliche Staffelpreise je Abnehmergruppe, Absatzgebiete, Absatz- bzw. Erzeugungszeite, Warengruppe oder Preisgruppe"
+Preisgestaltung - Features (erweitert),,Unterschiedliche Preise für Produktvarianten,"Gibt an, ob der Tarif Funktionen zur unterschiedlichen Bepreisung von Artikelvarianten (Größe, etc.) beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,Unterschiedliche Preise je Produkt hinterlegbar/ verwaltbar (Sonderangebotspreis),"Gibt an, ob Sie je Produkt mehrere Preise verwalten und zur Anzeige auswählen können. Bsp: Großhandelspreis, Einzelhandelspreis, Fester Angebotspreis"
+Preisgestaltung - Features (erweitert),,Verkaufspreiskalkulation anhand von Regeln,"Gibt an, ob Sie je Produkt mehrere Preise verwalten und zur Anzeige auswählen können. Bsp: Großhandelspreis, Einzelhandelspreis, Fester Angebotspreis"
+Preisgestaltung - Features (erweitert),,"Versandkosten je Produkt definierbar (Sperrgutzuschlag, Portoaufschlag, Übergröße, Volumen)","Gibt an, ob der Tarif einen Spergutzuschlagzuschlag ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,Währungsspezifische Produktpreise,"Gibt an, ob der Tarif einen Spergutzuschlagzuschlag ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Preisgestaltung - Features (erweitert),,Zahlungsartabhängiger Rabatt/ Aufschlag,"Gibt an, ob der Tarif Funktionen zur unterschiedlichen Bepreisung(Gebühr oder Rabatt) von Zahlungsanbietern beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Anzahlungen verwaltbar,Ermöglichen Sie Ihren Kunden Anzahlungen zu leisten.
+Zahlung - Payment,,Autom. Zahlungslink (Paypal) per E-Mail,"Gibt an, ob der Tarif den Versand von Zahlungsaufforderungs-Links (z.B. für Paypal) unterstützt."
+Zahlung - Payment,,Automatische SEPA Lastschrift/ Bankeinzug direkt aus System,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Automatische SEPA Lastschriftankündigung für Kunden per Mail,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Bankkontoabgleich via EBICS/ Stündlicher Zahlungsabgleich,"Gibt an, ob der Tarif einen Zahlungsabgleich unter Verwendung der angegebnenen Protokolle beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Bankkontoabgleich via HBCI/ PIN TAN Onlinebanking / Stündlicher Zahlungsabgleich,"Gibt an, ob der Tarif einen Zahlungsabgleich unter Verwendung der angegebnenen Protokolle beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Barzahlung/ Verrechnungsscheck,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Erzeugung von SEPA - Lastschriften (ehem. DTA/ DTAUS/ DTAZV),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,komfortkasse.eu Zahlungserinnerung/ Zahlungsabgleich Vorkasse,"Mit Komfortkasse werden Banküberweisungen vom Bankkonto abgerufen und automatisch den offenen Bestellungen zugeordnet. Die Zuordnung erfolgt vollautomatisch und ist fehlertolerant, z.B. wenn der Name nicht übereinstimmt, die Bestellnummer nicht angegeben wurde oder der Betrag abweicht.Zusätzlich können Zahlungserinnerungen versendet und Rückbuchungen durchgeführt werden. Ein eigenes Bankkonto ist nicht erforderlich, wir stellen Ihnen Sammelkonten in verschiedenen Währungen und Ländern zur Verfügung."
+Zahlung - Payment,,Länderspezifische Zahlungsarten,"Gibt an, ob Sie die Verwendung von bestimmten Zahlungsarten auf Bestellländer begrenzen können."
+Zahlung - Payment,,Nachnahme (COD) (Nachname typo),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Ratenzahlung/ Ratenkauf/ Finanzierung,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,"Schweizer ESR-Einzahlungsscheine aus System (ESR, VESR)",Ermöglicht direkte ESR Einzahlungsscheingenerierung aus System für Rechnungen.
+Zahlung - Payment,,SEPA konform,"Gibt an, ob der Tarif fit für die Anforderungen des Single Euro Payments Area (Einheitlicher Euro-Zahlungsverkehrsraum) ist."
+Zahlung - Payment,,Versandartabhängige Zahlungsarten,Beispiel: Bestellungen mit gewähltem Expressversand können nicht per Vorkasse gezahlt werden.
+Zahlung - Payment,,Zahlungsabgleich von PayPalkonten,"Gibt an, ob der Tarif einen Zahlungsabgleich von paypal Konten (via paypal api) beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlung - Payment,,Zahlungsstatus im System,"Gibt an, ob der Tarif einen Zahlungsabgleich von paypal Konten (via paypal api) beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,aftership,Track & Audit Shipments
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Auslandsversandkosten je Lieferland spezifizierbar,"Gibt an, ob der Tarif die Definition von Lieferländern und Auslandsversandkosten beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,"Automatische, versandkostenoptimierte Zuordnung von passenden Versandanbietern zu Verkäufen","Gibt an, ob der Tarif die Definition von Lieferländern und Auslandsversandkosten beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,DHL Alterssichtprüfungs-Option,"Gibt an, ob der Tarif die Definition von Lieferländern und Auslandsversandkosten beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,"Gebündelter Druck von Versanddokumenten (Batch, Stapeldruck)","Gibt an, ob der Tarif den gebündelten Druck (Bulk-Druck) von Rechnungen und Lieferscheinen beinhaltet."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Länderspezifische Versandarten/ Liefermethoden,"Gibt an, ob Sie je Lieferland Ihren Kunden eine Auswahl an Versandarten anbieten können."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Lieferscheine/ Packliste erstellbar,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Lieferterminwunsch des Kunden möglich (Versanddatum in der Zunkunft),"Gibt an, ob der Tarif Lieferdatenwünsche Ihrer Kunden abfragen kann. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Mehrere Versandmethoden für Käufer (Anzahl),"Gibt an, ob und welche Anzahl an Versandmethoden Sie dem Kunden anbieten können."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Produktspezifische Versandart/ Versandmethoden,"Gibt an, ob der Tarif die individuelle Einschränkung von Versandmethoden je Produkt unterstützt. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Sanktionslistenprüfung von Lieferadressen - dbh Advantage Compliance (Terrorlisten),Ermöglicht eine automatisierte Überprüfung von Export/ Ausfuhr-Beschränkungen.
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Unterstützung mehrerer Versandetiketten je Bestellung (Labels),Ermöglicht eine automatisierte Überprüfung von Export/ Ausfuhr-Beschränkungen.
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Versand an DHL Packstationen (Eingabe-Maske),"Gibt an, ob der Kunde im Checkout/Prozess als Lieferadresse eine Packstation angeben kann."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Versandgruppen - Funktion,"Mit der Funktion Versandgruppen können Sie unterschiedliche Versandgruppen, deren Versandkosten nach unterschiedlichen Prinzipien (Gewicht + Preis) berechnet werden, im Warenkorb zusammenfassen mit automatischer Versandkostenberechnung."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,"Versandkosten nach Gesamtbestellwert/ Warenkorbwert ( Versandkostenfreigrenze, Versandkostenstaffel)","Gibt an, ob der Tarif Funktionen zur Koppelung von Warenkorbwert und Versandgebühr beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Versandkosten nach Gesamtgewicht (Gewichtsabhängig),"Gibt an, ob der Tarif die Versandkostenangabe nach Gewicht des Warenkorbs beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Versandkostenberechnung nach Bestellmenge,Mit dieser Funktion können Sie für einzelne Artikel gestaffelte Versandkosten anlegen. Bei den betreffenden Artikeln werden die Versandkosten dann einmalig berechnet. (Ab Stückzahl 3 Versandkosten günstiger)
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Versandkostenberechnung nach Lieferzonen (Anzahl)/ PLZ (Postleitzahl),"Gibt an, ob der Tarif unterschiedliche Versandgebühren je nach PLZ unterstützt. Etwaige angegebene Werte entsprechen Anzahl der möglichen Lieferzonen."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Versandoption Selbstabholung,"Gibt an, ob der Tarif unterschiedliche Versandgebühren je nach PLZ unterstützt. Etwaige angegebene Werte entsprechen Anzahl der möglichen Lieferzonen."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Wahlweise Einzel- oder Sammelversand,"Gibt an, ob Sie wahlweise Einzel- oder Sammelversand bei Bestellungen mit unterschiedlichen Artikeln durchführen können."
+Versand - Features (erweitert),Hier finden Sie unterschiedliche Funktionen zur Preisgestaltung von Versanddetails.,Weltweiter Versand möglich,"Gibt an, ob jedes Land als Empfängeradresse gewählt werden kann"
+Zusatzfunktionen (erweitert),,Verleih-Management (z.B. von Ersatzgeräten),
+Zusatzfunktionen (erweitert),,Vermietung von Produkten - Belegungs- /Reservierungsfunktion/ Buchungsfunktion& Termine,"Gibt an, ob der Tarif eine terminliche Buchungsfunktion z.B. für Resevierung von Tischen oder Gegenständen beinhaltet."
+Kassensystem (POS),POS = Point of Sale,Einlagen und Entnahmen über Kasse buchen,
+Kassensystem (POS),POS = Point of Sale,gaxsys - POS Kassen-Integration,"Gibt an, ob der tarif die Integrationen von Point of Sale / Filialen in ein Onlineshopsystem durch den Anbieter gaxsys aufweist."
+Kassensystem (POS),POS = Point of Sale,Kassen -Tagesabschluss - Funktion/ Kassenbericht,"Gibt an, ob Sie einen Tagesabschluss je Kasse (bei mehreren Kassen) erstellen können."
+Kassensystem (POS),POS = Point of Sale,Kassenbuch - Funktion,"Gibt an, ob der Tarif eine Funktion zur Verwaltung von Bargeldbetraegen beinhaltet."
+Kassensystem (POS),POS = Point of Sale,Nur Lieferscheine/ Bestände buchen (Bezahlung per Rechnung später),"Gibt an, ob der Tarif eine Funktion zur Verwaltung von Bargeldbetraegen beinhaltet."
+Kassensystem (POS),POS = Point of Sale,POS-Kassensystem - CWI Linetouch - Schnittstelle,"Gibt an, ob der Tarif eine Schnittstelle zum Kassensystem CWI Linetouch beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kassensystem (POS),POS = Point of Sale,POS-Kassensystem anbindbar für Filialen (allgemein),"Gibt an, ob der Tarif die zusätzliche Verwendung von Kassensystemen(z.B. in Ladengeschäften) unterstützt und beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kassensystem (POS),POS = Point of Sale,POS-Kassensystem integriert (für stationären Ladenverkauf),"Gibt an, ob der Tarif als Kassensystem am Point of Sale (POS) eingesetzt werden kann und entsprechende Zuatzfunktionen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kassensystem (POS),POS = Point of Sale,POS-Kassensystem mit Seriennummern-Unterstützung,Auch hochpreisige Artikel mit notwendiger Seriennummern zuordnung können über das Kassensystem verkauft werden.
+Kassensystem (POS),POS = Point of Sale,Systemgestützte Mengenerfassung von Scheinen und Münzen beim Zahlvorgang,"Beim Zahlvorgang muss der Kassierer nicht erst die etlichen Münzen zusammenrechnen, die der Kunde auf den Tresen legt, sondern kann durch Erfassen der entsprechenden Geldmünzen und deren Anzahl den Gesamtbetrag vom System errechnen lassen."
+Backend - Funktionen (erweitert),,Active Directory Integration,"Gibt an, ob die Software zur Benutzerverwaltung eine Verwendung vorhandener Active Directory Einträge ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Backend - Funktionen (erweitert),,"Anpassbare automatische, zeitgesteuerte Prozesse (Cronjobs, Workflows etc.) nach Regeln erstellbar","Gibt an, ob der Tarif cron jobs, d.h. zeitliche aktivierte Befehle wie den Versand bestimmter E-Mails, beinhaltet."
+Backend - Funktionen (erweitert),,Artikeldaten-/ Produktdaten-Export mit Auswahl der zu exportierenden Attribute,"Gibt an, ob der Tarif cron jobs, d.h. zeitliche aktivierte Befehle wie den Versand bestimmter E-Mails, beinhaltet."
+Backend - Funktionen (erweitert),,Aufspüren von doppelten Einträge (Dubletten),Erkennt und eliminiert doppelte Inhalte.
+Backend - Funktionen (erweitert),,Benutzerrechte je Modul/ Plugin definierbar,"Je Modul definierbar, ob Benutzer nur Module Anzeigen, Konfigurieren oder Deinstallieren kann."
+Backend - Funktionen (erweitert),,Benutzerrechteverwaltung/ Rollenmanagement,"Gibt an, ob der Tarif eine Verwaltung von Backend-Benutzern ermöglicht, d.h. ob mehrere Benutzer mit unterschiedlichen Zugriffsrechten definiert werden können. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Backend - Funktionen (erweitert),,Dashboard-/Backend /Cockpit - Personalisierung (Shortcuts),"Gibt an, ob das Backend der Software je Mitarbeiter entsprechend den jeweiligen Tätigkeiten personalisiert werden kann."
+Backend - Funktionen (erweitert),,E-Mail-Adressliste Exportfunktion,"Gibt an, ob das Backend der Software je Mitarbeiter entsprechend den jeweiligen Tätigkeiten personalisiert werden kann."
+Backend - Funktionen (erweitert),,E-Mail/ Nachrichten - Versand direkt aus System,"Gibt an, ob das Backend der Software je Mitarbeiter entsprechend den jeweiligen Tätigkeiten personalisiert werden kann."
+Backend - Funktionen (erweitert),,Einrichtungsassistent (Getting started guide),"Gibt an, ob das Backend der Software je Mitarbeiter entsprechend den jeweiligen Tätigkeiten personalisiert werden kann."
+Backend - Funktionen (erweitert),,Import von Kategorien,"Gibt an, ob das Backend der Software je Mitarbeiter entsprechend den jeweiligen Tätigkeiten personalisiert werden kann."
+Backend - Funktionen (erweitert),,"Integrierte Bildbearbeitung (z.B. Zuschneiden, Resize)","Fotos zuschneiden, vergrößern oder verkleinern, verblassen und überlagern"
+Backend - Funktionen (erweitert),,Massenupload von Bildern,Gleichzeitiges hochladen von vielen Produktbildern.
+Backend - Funktionen (erweitert),,Medienverwaltung/ Dateimanagement,Gleichzeitiges hochladen von vielen Produktbildern.
+Backend - Funktionen (erweitert),,Merkliste/ Favoriten der Kunden ändern und verwalten,"Gibt an, ob die Software es ermöglicht, z.B. bei einem Telefonat mit Ihrem Kunden, den gesuchten Artikel direkt aus dem Backend in dessen Favoriten zu platzieren."
+Backend - Funktionen (erweitert),,Multilinguales Backend,"Gibt an, ob die Software es ermöglicht, z.B. bei einem Telefonat mit Ihrem Kunden, den gesuchten Artikel direkt aus dem Backend in dessen Favoriten zu platzieren."
+Backend - Funktionen (erweitert),,Multiuser-Backend/ Anzahl enthaltener Benutzerprofile/ Mitarbeiter (Mehrbenutzerfähig),"Gibt an, ob der Tarif den d simultanen Zugriff von mehreren Benutzern beinhaltet. Etwaige angegebene Werte entsprechen Anzahl an parallel Nutzern."
+Backend - Funktionen (erweitert),,Produkte aktivier- und deaktivierbar (ohne Menge auf 0 zu ändern),"Gibt an, ob der Tarif den d simultanen Zugriff von mehreren Benutzern beinhaltet. Etwaige angegebene Werte entsprechen Anzahl an parallel Nutzern."
+Backend - Funktionen (erweitert),,Produkte direkt in der Frontend-Ansicht (Store-Front) deaktivierbar,"Gibt an, ob Produktangebote direkt in der Storefront durch Admin deaktivierbar sind."
+Backend - Funktionen (erweitert),,QR-Codes direkt aus der System erstellbar (Qrcode),"Gibt an, ob Sie QR-Codes (Informationen in scannbarem Code) für Smartphones direkt aus dem Backend ohne copy und paste erstellen können."
+Backend - Funktionen (erweitert),,Sortiment im BMEcat - Format exportierbar,"Gibt an, ob Sie QR-Codes (Informationen in scannbarem Code) für Smartphones direkt aus dem Backend ohne copy und paste erstellen können."
+Backend - Funktionen (erweitert),,Versandzeitpunkt/ Zeitpunkt der Lieferung darstellbar,Diese Funktion ermöglicht dem Shopbetreiber die Versandzeiten zu hinterlegen und in der Artikeldetailansicht darzustellen.
+Backend - Funktionen (erweitert),,Verwaltung fehlerhafter E-Mail Empfänger,Diese Funktion ermöglicht dem Shopbetreiber die Versandzeiten zu hinterlegen und in der Artikeldetailansicht darzustellen.
+Backend - Funktionen (erweitert),,Zuordnung von Kunden-E-Mails zu Backend-Usern,Diese Funktion ermöglicht dem Shopbetreiber die Versandzeiten zu hinterlegen und in der Artikeldetailansicht darzustellen.
+Backend - Funktionen (erweitert),,"Mobile Umsetzung des Backend-Zugriffs (Responsive, App etc.)",Diese Funktion ermöglicht dem Shopbetreiber die Versandzeiten zu hinterlegen und in der Artikeldetailansicht darzustellen.
+Buchhaltung & Steuern (erweitert),,Altteilsteuer im System abgebildet,
+Buchhaltung & Steuern (erweitert),,Anzahl definierbarer Steuersätze (Regeln),
+Buchhaltung & Steuern (erweitert),,Bilanz erstellbar (direkt in Software),"Buchführungsfunktion. Gibt an, ob der Shop-Tarif Bilanzberichte ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Buchhaltung & Steuern (erweitert),,Buchungsmethode Stapelbuchungen,"Buchführungsfunktion. Gibt an, ob der Shop-Tarif Bilanzberichte ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Buchhaltung & Steuern (erweitert),,Datev-Schnittstelle für Export zu Buchhaltung/ Steuerberater DATEVPostversand Datei (KNE),"Buchführungsfunktion. Gibt an, ob der Shop-Tarif Bilanzberichte ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Buchhaltung & Steuern (erweitert),,Differenzbesteuerung (Rechnungsunterstützung),"Buchführungsfunktion. Gibt an, ob der Shop-Tarif Bilanzberichte ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Buchhaltung & Steuern (erweitert),,Fibu-schnittstelle zu Datev,"Gibt an, ob der Tarif den Datev-konformen Export von Warenausgangsrechnungen und Gutschriften beinhaltet."
+Buchhaltung & Steuern (erweitert),,Finanzbuchhaltung enthalten mit Buchungsvorgängen,"Gibt an, ob der Tarif Buchhaltungsfunktionen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Buchhaltung & Steuern (erweitert),,"GoBD testiert (ehemals GoB, GoS, GDPdU)","Die GoBD konkretisieren die Ordnungsmäßigkeitsanforderungen der Finanzverwaltung an den Einsatz von IT bei der Buchführung und bei sonstigen Aufzeichnungen. Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff"
+Buchhaltung & Steuern (erweitert),,Import & Export von Steuerregeln möglich (CSV),"Die GoBD konkretisieren die Ordnungsmäßigkeitsanforderungen der Finanzverwaltung an den Einsatz von IT bei der Buchführung und bei sonstigen Aufzeichnungen. Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff"
+Buchhaltung & Steuern (erweitert),,Integrierte Umsatzsteuer- ID/ UstID-Überprüfung,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Buchhaltung & Steuern (erweitert),,Rückzahlungen /(Teil)-Gutschriften direkt aus System,"Gibt an, ob für erhaltene Zahlungen von Paypal oder anderen Payment Dienstleistern Rückzahlungen direkt aus der Software möglich sind."
+"Berichte, Analysen (Statistiken) (erweitert)",,"Analyse Absatzmenge je Produkt (Bestseller, Noseller) (Renner, Penner)",
+"Berichte, Analysen (Statistiken) (erweitert)",,Analyse der häufigsten Versandarten,
+"Berichte, Analysen (Statistiken) (erweitert)",,Analyse der umsatzstärksten Kategorien,"Gibt an, ob der Tarif eine Analyse des Ertrags je Produkt beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+"Berichte, Analysen (Statistiken) (erweitert)",,Analyse der umsatzstärksten Produkte (ABC - Analyse),"Gibt an, ob der Tarif eine Analyse der umsatzstärksten Artikel ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+"Berichte, Analysen (Statistiken) (erweitert)",,Analyse des Ertrags/ Gewinns,"Gibt an, ob der Tarif einen Bericht über die Gewinne und Verluste ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+"Berichte, Analysen (Statistiken) (erweitert)",,Analyse Gesamtabsatz/ Anzahl Bestellungen,"Gibt an, ob der Tarif einen Bericht über die Gewinne und Verluste ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+"Berichte, Analysen (Statistiken) (erweitert)",,Bestellstatistik nach PLZ (Postleitzahl),"Gibt an, ob der Tarif einen Bericht über die Gewinne und Verluste ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+"Berichte, Analysen (Statistiken) (erweitert)",,Eigene Analytics-Funktion,"Gibt an, ob der Tarif einen Bericht über die Gewinne und Verluste ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+"Berichte, Analysen (Statistiken) (erweitert)",,Erweiterte Retourendokumentation und Retourenstatistik (Retourenquoten),"Gibt an, ob der Tarif die Dokumentation für Retourenaktionen (Umtausch, Ersattung, Entlastungssendung, Ersatzlieferung) ermöglicht."
+"Berichte, Analysen (Statistiken) (erweitert)",,Gesamtbestellwert je Kunde/ durchschnittlicher Bestellwert (Warenkorbgröße),"Gibt an, ob der Tarif die Dokumentation für Retourenaktionen (Umtausch, Ersattung, Entlastungssendung, Ersatzlieferung) ermöglicht."
+"Berichte, Analysen (Statistiken) (erweitert)",,Google Remarketing Conversion ID - Vorbereitung,"Gibt an, ob der Tarif die Dokumentation für Retourenaktionen (Umtausch, Ersattung, Entlastungssendung, Ersatzlieferung) ermöglicht."
+"Berichte, Analysen (Statistiken) (erweitert)",,Minubo - ecommerce BI analytics - Schnittstelle,"Gibt an, ob der Tarif die Dokumentation für Retourenaktionen (Umtausch, Ersattung, Entlastungssendung, Ersatzlieferung) ermöglicht."
+"Berichte, Analysen (Statistiken) (erweitert)",,mixpanel - Analytics,"Umfangreiche Analysen über Page views hinweg. Kundbindung, individuelle Zielgruppen-emails, Aktions-Monitoring"
+"Berichte, Analysen (Statistiken) (erweitert)",,Offene/ Ausstehende Zahlungen nach Zahlungsarten,"Umfangreiche Analysen über Page views hinweg. Kundbindung, individuelle Zielgruppen-emails, Aktions-Monitoring"
+"Berichte, Analysen (Statistiken) (erweitert)",,Statisiken/ Analysen exportierbar (csv),"Umfangreiche Analysen über Page views hinweg. Kundbindung, individuelle Zielgruppen-emails, Aktions-Monitoring"
+"Berichte, Analysen (Statistiken) (erweitert)",,Umsatz und Bestellstatistik nach Vertriebskanal (Channel),"Umfangreiche Analysen über Page views hinweg. Kundbindung, individuelle Zielgruppen-emails, Aktions-Monitoring"
+"Berichte, Analysen (Statistiken) (erweitert)",,Umsatzbetrachtung Vergleich Vorjahr (Monat Vorjahr)/ Umsatzverlauf,"Umfangreiche Analysen über Page views hinweg. Kundbindung, individuelle Zielgruppen-emails, Aktions-Monitoring"
+"Berichte, Analysen (Statistiken) (erweitert)",,Umsatzstatistik nach Ländern je Artikel,"Umfangreiche Analysen über Page views hinweg. Kundbindung, individuelle Zielgruppen-emails, Aktions-Monitoring"
+"Berichte, Analysen (Statistiken) (erweitert)",,Warenbestandsberichte,"Gibt an, ob der Tarif einen Bericht über den aktuellen Bestand ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Altersfreigabe je Artikel (FSK18),
+Kundenverwaltung-Funktionen (CRM),,Bereinigung mehrfacher Kundenkonten (Dubletten-Zusammenführung),"Gibt an, ob der Tarif Funktionen zur Erkennung von identischen oder ähnlichen Bankdaten, E-Mail- oder Postadressen oder Namen beinhaltet."
+Kundenverwaltung-Funktionen (CRM),,"Bonussystem/-Punkte (z.B. Cashback, Points) Kundenbindungsprogramm","Gibt an, ob der Tarif ein eigenständiges System zur Vergabe und Verwaltung von Bonuspunkten je Kunden beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Export von Kundendaten möglich,"Gibt an, ob bei vorhandener Kundenverwaltung ein Export möglich ist. (csv, test, xml etc.)"
+Kundenverwaltung-Funktionen (CRM),,Freie Kundenattribute/ Kundenfelder/ Kundenmerkmale anlegbar + Abfrage bei Kundenregistrierung,"Gibt an, ob bei vorhandener Kundenverwaltung ein Export möglich ist. (csv, test, xml etc.)"
+Kundenverwaltung-Funktionen (CRM),,Import von Kundendaten möglich,"Gibt an, ob bei vorhandener Kundenverwaltung ein Export möglich ist. (csv, test, xml etc.)"
+Kundenverwaltung-Funktionen (CRM),,Kunde mehreren Kundengruppen zuordenbar,"Gibt an, ob bei vorhandener Kundenverwaltung ein Export möglich ist. (csv, test, xml etc.)"
+Kundenverwaltung-Funktionen (CRM),,Kundengruppen/ Kundentypen erstellbar (Anzahl),"Gibt an, ob bei vorhandener Kundenverwaltung ein Export möglich ist. (csv, test, xml etc.)"
+Kundenverwaltung-Funktionen (CRM),,Kundengruppenerstellung nach Artikelfilter,"Gibt an, ob Sie Kunden zu Gruppen zusammenfassen können, die z.B. alle einen bestimmte Artikel erworben haben."
+Kundenverwaltung-Funktionen (CRM),,Kundengruppenerstellung nach Kundenfilter,"Gibt an, ob Sie für die Kunden eines Kundenfilters (wie z.B. Herkunftsland oder Kaufsumme) schnell eine eigene Kundengruppe anlegen können."
+Kundenverwaltung-Funktionen (CRM),,Kundenkonto durch Kunden erstellbar/ Account,"Gibt an, ob der Tarif eine Kundenkontofunktion mit Erstellung des Kontos durch den Kunden ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Kundenverwaltung enthalten,"Gibt an, ob der Tarif eine Verwaltung von Kunden beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Mehrere Lieferadressen/ Versandadressen je Kunde (Adressbuch),"Gibt an, ob der Tarif eine Verwaltung von Kunden beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Treue-Rabatte möglich,"Gibt an, ob der Tarif ein eigenständiges System zur Vergabe und Verwaltung von Treurabatte an bestimmte Kunden beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Zuweisung von Steuerklassen zu Kunden über Kundengruppen,"Gibt an, ob der Tarif ein eigenständiges System zur Vergabe und Verwaltung von Treurabatte an bestimmte Kunden beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenverwaltung-Funktionen (CRM),,Maximale verwaltbare Kundenanzahl,"Gibt an, welche maximale Anzahl an Kunden mit dem Shop-Tarif beliefert werden können."
+Kundenkommunikation & Ticketsystem,,Automatische Zuordnung von Kundenanfragen zu Kundenkonten,
+Kundenkommunikation & Ticketsystem,,Autoresponse E-Mails (Autoresponder für Kundennachrichten),Automatisierte Antworten auf Kundenmitteilungen mit vorgefertigten E-Mailtexten.
+Kundenkommunikation & Ticketsystem,,Gültigkeitsbregenzung eines Tickets möglich,Automatisierte Antworten auf Kundenmitteilungen mit vorgefertigten E-Mailtexten.
+Kundenkommunikation & Ticketsystem,,Integriertes Kunden-Ticketsystem,"Gibt an, ob der Tarif ein eigenständiges Kunden-Ticketsystem zu Kundensupport-Zwecken beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Kundenkommunikation & Ticketsystem,,Kundenanfragen klassifizierbar (Typ),"Gibt an, ob die Software die Zuorndung von Typen, wie z.B. Reklamation, Technische Anfrage, etc. unterstützt."
+Kundenkommunikation & Ticketsystem,,Textbausteine/ Vorlagen für Kundenkommunikation und Dokumente,"Gibt an, ob die Software die Zuorndung von Typen, wie z.B. Reklamation, Technische Anfrage, etc. unterstützt."
+Kundenkommunikation & Ticketsystem,,Wiedervorlage - Funktion/ Wiedervorlagen,"Gibt an, ob der Anbieter bestimmte Belge oder Vorgaenge auf Wiedervorlage fuer einen bestimmten Zeitpunkt setzen kann."
+Kundenkommunikation & Ticketsystem,,Zuordnung von Prioritäten zu Kundenanfragen/ Tickets,"Gibt an, ob der Anbieter bestimmte Belge oder Vorgaenge auf Wiedervorlage fuer einen bestimmten Zeitpunkt setzen kann."
+Retourenmanagement (RMA) (erweitert),,ERETURN - Retourenabwicklung,Rücksendemanagement und -abwicklung vom Anbieter ERETURN möglich.
+Retourenmanagement (RMA) (erweitert),,Reparatur-Management für verkaufte Produkte,"Gibt an, ob die Verwaltung von Reparaturen beinhaltet ist."
+Retourenmanagement (RMA) (erweitert),,Retourenmanagement/ RMA/ Reklamation/ Beschwerde,"Gibt an, ob der Tarif eine eigenständige Verwaltung von Retouren beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Retourenmanagement (RMA) (erweitert),,Rücksendungen/ Stornierungen durch Kunden im Kundenkonto möglich,(Wenn Bestellung noch nicht validiert/ weiterverarbeitet)
+Mahnwesen,,"Automatisierte Zahlungserinnerungen + Zahlungsaufforderungen/ Mahnungen (z.B. bei Rechnungszahlung per E-Mails, Brief)",
+Mahnwesen,,Automatisierte Zahlungserinnerungen bei Vorkasse,
+Mahnwesen,,Mahnwesen enthalten/ Mahnungen,"Gibt an, ob der Tarif die Verwaltung von offenen Forderungen(Mahnwesen mit mehreren Stufen) beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marketing - Features (erweitert),Hier finden Sie Funktionen und Details zum Thema Marketing. Angegebene Werte entsprechen Zusatzkosten pro Monat.,Integrierte umfangreiche Newsletter-Erstellung,"Gibt an, ob der Tarif Newsletter-Funktionen zum selektiven und automatisierbaren Versand beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marketing - Features (erweitert),Hier finden Sie Funktionen und Details zum Thema Marketing. Angegebene Werte entsprechen Zusatzkosten pro Monat.,Kalender und Event Management-Feature inkl. Ticketbuchungsverwaltung,"Mit dieser Funktion können Sie Veranstaltungen wie Messetermine, Tage der offenen Tür, Produktvorstellungen oder andere Termine in Ihrem Shop ankündigen und diese automatisch nach Ablauf wieder ausblenden lassen."
+Marketing - Features (erweitert),Hier finden Sie Funktionen und Details zum Thema Marketing. Angegebene Werte entsprechen Zusatzkosten pro Monat.,Newsletter aus System versenden/ Serienmails (Anzahl E-Mails),"Gibt an, ob der Tarif den direkten Versand von Newslettern beinhaltet und gibt deren enthaltene Anzahl pro Monat an."
+Marketing - Features (erweitert),Hier finden Sie Funktionen und Details zum Thema Marketing. Angegebene Werte entsprechen Zusatzkosten pro Monat.,Spezifische Rabatte nach Gesamtbestellwert,"Gibt an, ob der Tarif den direkten Versand von Newslettern beinhaltet und gibt deren enthaltene Anzahl pro Monat an."
+E-Mail Marketing Anbieter,,CleverReach - E-Mail Marketing,
+E-Mail Marketing Anbieter,,criteo - Retargeting-Dienst,"criteo ermöglicht es, Ihren potentiellen Kunden beim Verlassen Ihres Shops auf anderen Websiten personalisierte Werbung Ihrer Produkte dargestellt wird."
+E-Mail Marketing Anbieter,,getresponse - Newsletter-Dienst,"criteo ermöglicht es, Ihren potentiellen Kunden beim Verlassen Ihres Shops auf anderen Websiten personalisierte Werbung Ihrer Produkte dargestellt wird."
+E-Mail Marketing Anbieter,,inxmail - E-Mail Marketing,"Gibt an, ob die Shopsoftware eine funtionsfertige Schnittstelle zum E-Mail Marketing Dienstleister inxmail beinhaltet."
+E-Mail Marketing Anbieter,,kryd - Newsletter/ Kampagnen-Dienst,"Gibt an, ob die Shopsoftware eine funtionsfertige Schnittstelle zum E-Mail Marketing Dienstleister inxmail beinhaltet."
+E-Mail Marketing Anbieter,,mailbeez - E-Mail-Marketing,MailBeez ist ein Werkzeug für automatische und personalisierte E-Commerce Email Marketing Kampagnen. Die Verwaltung befindet sich direkt in der Administration des Shops.
+E-Mail Marketing Anbieter,,Mailchimp - E-Mail Marketing,MailBeez ist ein Werkzeug für automatische und personalisierte E-Commerce Email Marketing Kampagnen. Die Verwaltung befindet sich direkt in der Administration des Shops.
+E-Mail Marketing Anbieter,,Maileon by xqueue,MailBeez ist ein Werkzeug für automatische und personalisierte E-Commerce Email Marketing Kampagnen. Die Verwaltung befindet sich direkt in der Administration des Shops.
+E-Mail Marketing Anbieter,,mailjet,MailBeez ist ein Werkzeug für automatische und personalisierte E-Commerce Email Marketing Kampagnen. Die Verwaltung befindet sich direkt in der Administration des Shops.
+E-Mail Marketing Anbieter,,Newsletter2Go - E-Mail Marketing,MailBeez ist ein Werkzeug für automatische und personalisierte E-Commerce Email Marketing Kampagnen. Die Verwaltung befindet sich direkt in der Administration des Shops.
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Alarmmeldung bei definiertem niedrigen/ geringen/ leeren Warenbestand (Mindestbestand),"Gibt an, ob der Tarif eine Erinnerungsfunktion bei niedrigem Warenbestand beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Anlegen von Produkten über PRICAT,"Gibt an, ob der Tarif das PRICAT Datenformat unterstützt"
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Artikel-Kopier-/ Duplizierfunktion für Produktdaten,"Gibt an, ob der Tarif das PRICAT Datenformat unterstützt"
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Artikeldatenimport von Herstellern und Lieferanten,"Gibt an, ob der Tarif das PRICAT Datenformat unterstützt"
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Artikelverwaltung/ Produktverwaltung enthalten,"Gibt an, ob der Tarif eine Artikelverwaltung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Automatische E-Mail an Kunden bei Lieferverzögerungen,"Gibt an, ob der Tarif eine Artikelverwaltung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Barcode Unterstützung - Individuelle Barcodes drucken,"Gibt an, ob der Tarif eine Artikelverwaltung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Benachrichtigungen bei Produktbild-Bearbeitung,"Gibt an, ob der Tarif eine Artikelverwaltung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",EAN Codes - Artikelattribut und Verwaltung,"Gibt an, ob der Tarif eine Artikelverwaltung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Echtzeit Warenbestand/ Lagerbestand,Warenbestand wird bei Verkäufen oder Warennachschub im Einkauf in Echtzeit aktualisiert.
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",EDI / EDIFACT Schnittstelle,"Electronic Data Interchange, die elektronische Übermittlung strukturierter Daten mit festgelegten Nachrichtenstandards."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Erstellung von individuellen Verkaufsangeboten (pdf),"Gibt an, ob der Tarif eine Funktion zur Erstellung von Angeboten beinhaltet."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",ETIM - Unterstützung,"Gibt an, ob der Tarif den branchenübergreifenden Produkt- und Katalogdatenstandard der Elektronindustrie ETIM für die Beschreibung von Produkten unterstützt."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Export von Bestellungen (openTRANS Format),"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.","Export von Bestellungen/ Aufträgen (csv, xml)","Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",HSBC Onlinebanking Abruf,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.","Import und Export von Artikeldaten/ Produktdaten (csv, xml)","Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Innergemeinschaftliche Lieferung - Rechnungsunterstützung,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Interne Bemerkung (Notiz/ Hinweis/ Memo) je Auftrag/ Bestellung,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Inventur-Funktion mit Barcodescanner Unterstützung,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Kleinunternehmer-Regelung-Unterstützung,"Gibt an, ob der Tarif, bzw. dessen Rechnungserstellungsprogramm Rechnungen gemäß der Kleinunternehmerregelung (kein Ausweis der Mwst.) erstellen kann."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Liefermeldungen mit DESADV,"Gibt an, ob der Tarif eine automatisierte Wareneingangs-Ankündiung per EDI (DESADV-Protokoll) unterstützt."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.","Lieferrückstände verwaltbar (Backorder, Überverkäufe, Zeitüberschreitung)","Gibt an, ob der Tarif eine automatisierte Wareneingangs-Ankündiung per EDI (DESADV-Protokoll) unterstützt."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Mehrere Gutschriften je Rechnung/ Auftrag erstellbar,"Gibt an, ob der Tarif dier Erstellung mehrerer Gutschriften je Rechnung, z.B. bei Rücksendungen in mehreren Teilen, ermoeglicht."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Nachfolgeprodukt definier- und anzeigbar,"Gibt an, ob der Tarif dier Erstellung mehrerer Gutschriften je Rechnung, z.B. bei Rücksendungen in mehreren Teilen, ermoeglicht."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Nummernkreise definierbar,"Gibt an, ob der Tarif dier Erstellung mehrerer Gutschriften je Rechnung, z.B. bei Rücksendungen in mehreren Teilen, ermoeglicht."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.","Optimierte Bearbeitung vieler Artikel (Mehrfachänderung, Massenbearbeitung, Stapelverarbeitungen, Massenänderung)","Gibt an, ob der Tarif eine optimierte Überarbeitung großer Artikelmengen (z.B. in Tabellenform) ermöglicht."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Produktreservierungen (virtueller Bestand) (ATP),"Gibt an, ob der Tarif je Produkt Reservierungen verwalten kann."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Rechnungsstellung an EU-Nichtunternehmer ab 2015 (Steuersätze der EU-Länder hinterlegbar),"Ab dem 1. Januar 2015 liegt der Leistungsort bei Telekommunikations-, Rundfunk- und Fernseh- sowie auf elektronischem Weg erbrachten Dienstleistungen an Nichtunternehmer in dem Staat, in dem der Leistungsempfänger ansässig ist oder seinen Wohnsitz oder gewöhnlichen Aufenthaltsort hat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Rechnungsstellung bei Lieferung in Drittland (Export),"Ab dem 1. Januar 2015 liegt der Leistungsort bei Telekommunikations-, Rundfunk- und Fernseh- sowie auf elektronischem Weg erbrachten Dienstleistungen an Nichtunternehmer in dem Staat, in dem der Leistungsempfänger ansässig ist oder seinen Wohnsitz oder gewöhnlichen Aufenthaltsort hat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Seriennummern-Management,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Statistiken Warenwirtschaft,"Gibt an, ob der Tarif allgemein Statistiken zur Warenwirtschaft beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Teilinventur - Funktion,"Gibt an, ob der Tarif allgemein Statistiken zur Warenwirtschaft beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Teillieferungen für Kunden verwaltbar (Teilbestellung),"Gibt an, ob der Tarif Teillieferungen an Ihre Kunden ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",UVP - Verwaltung möglich,"Gibt an, ob der Tarif Teillieferungen an Ihre Kunden ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Vollinventur - Funktion,"Gibt an, ob der Tarif Teillieferungen an Ihre Kunden ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Warenwirtschaft - Funktionen (erweitert),"Tarife, die umfangreiche Warenwirtschaftsfunktionen enthalten, können hier detailliert hinsichtlich Ihrer
+Warenwirtschafts-Funktionen verglichen werden.",Max. Anzahl an Dropship-Lieferanten/ -Adressen,"Gibt an, ob der Tarif Teillieferungen an Ihre Kunden ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Lager & Kommissionierung,,"""Versandt""-Status per Paketscan mittels Barcode","Gibt an, ob ein ""Versandscan"" unterstützt wird, welcher die Bestellung automatisch auf ""versandt"" ändert und Trackinginformationen einliest."
+Lager & Kommissionierung,,Automatische Vorgangsaufteilung und Weiterleitung bei Dropshipping/ Streckengeschäft,"Gibt an, ob der Tarif automatische Bestellfreigaben zu Drop Shipping-Partner ermöglicht."
+Lager & Kommissionierung,,EAN/ UPC unterstützer Barcode-Pickvorgang,Der Pickvorgang wird durch Scan der Artikel durchgeführt. Dies Erhöht die Fehlertolleranz beim Pickvorgang.
+Lager & Kommissionierung,,"Lagerbestandsverschiebung zwischen zwei Lagerstandorten (Lagerumbuchung, Umlagerung)",Der Pickvorgang wird durch Scan der Artikel durchgeführt. Dies Erhöht die Fehlertolleranz beim Pickvorgang.
+Lager & Kommissionierung,,Lagerplatz-/ Regal-Verwaltung enthalten,"Gibt an, ob der Tarif eine Lagerverwaltung beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Lager & Kommissionierung,,Pickliste für Picker,"Gibt an, ob der Tarif die jeweilige Warenwirtschaftsfunktion beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Lager & Kommissionierung,,"Verwaltung mehrerer Lagerstandorte/ Depots, /Läger (Lagerverwaltung)","Gibt an, ob der Tarif die Verwaltung mehrerer Lagerstandorte für den Artikelbestand ermöglicht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Amazon business,
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Amazon.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",bol.com Marktplatz,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Crowdfox,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Dawanda,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.co.uk,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.com,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.fr,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.it,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.nl,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Ebay.pl,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Facebook Shop/ Store - F-Commerce,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",GIMAHHOT,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",hood.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",idealo Direktkauf,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Kauflux.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Laary.eu,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",otto.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",pixmania,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Plus.de - Marktplatz,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",qrnext.de,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den QR-Code-System von qrnext.de beinhaltet."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Rakuten.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",real.de (hitmeister.de),Onlineshopping Portal
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",ricardo.ch,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",ricardoshops.ch,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Shopgate Mobile Marketplace,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Shopware Connect (bepado),"Gibt an, ob für den Tarif eine funktionierende Anbindung an das interaktive Händlernetzwerk bepado existiert."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",yatego.de,"Gibt an, ob der Tarif eine funktionsfertige Multichanel-Anbindung an die jeweilige Verkausplatform beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",Zalando.de,"Gibt an, ob der Tarif eine existierende Schnittstelle zum Markplatz Zalando beinhaltet."
+Marktplätze/ Portale (erweitert),"Wählen Sie hier die Portale, zu welchen die von Ihnen gesuchte Software eine Schnittstelle
+(Bestellübermittlung, Artikelaustausch) besitzt.",zentralverkauf.de,"Gibt an, ob der Tarif eine existierende Schnittstelle zum Markplatz Zalando beinhaltet."
+Multichannel - Funktionen (erweitert),,Amazon Seller Fulfilled Prime/ Prime Fulfillment by Merchant (FBM)/ MFN Prime,"Damit ist es ausgesuchten Händlern möglich, Prime-Artikel direkt aus den eigenen Lägern zu versenden."
+Multichannel - Funktionen (erweitert),,Automatisches Rechnungslayout je nach Vertriebsweg/ -Channel,"Lassen Sie, z.B. bei Verkäufen über ebay das ebay Logo oder einen Zusatztext automatisiert auf Ihrer Rechnung erscheinen."
+Multichannel - Funktionen (erweitert),,Kanalsteuerung für Produkte,"Gibt an, ob der Tarif eine selektive Darstellung der Produkte je Verkaufskanal beinhaltet."
+Multichannel - Funktionen (erweitert),,"Lieferung in Filiale - Funktion (Click&Collect, Order Online & Pickup in Store)","Gibt an, ob der Tarif die Abholung der online bestellten Produkte in der Filiale ermöglicht."
+Multichannel - Funktionen (erweitert),,Lokale Bestände in Filialen in Echtzeit anbindbar,Kunden können im Onlineshop die Verfügbarkeit in Ihrer Filiale prüfen
+Multichannel - Funktionen (erweitert),,Mobile Warenkörbe an Desktop senden (z.B. per E-Mail),Kunden können im Onlineshop die Verfügbarkeit in Ihrer Filiale prüfen
+Multichannel - Funktionen (erweitert),,Nachbestell-Funktion für Filialen /Nachschub,Nachbestellen und Kaufen von Produkten im Ladenlokal über die E-Commerce-Plattform.
+Multichannel - Funktionen (erweitert),,Online bestellen - Versand durch Filialen Online Bestellen - Fulfillment durch bestimmte Filiale,Nachbestellen und Kaufen von Produkten im Ladenlokal über die E-Commerce-Plattform.
+Multichannel - Funktionen (erweitert),,PAN-EU FBA Amazon,Nachbestellen und Kaufen von Produkten im Ladenlokal über die E-Commerce-Plattform.
+Multichannel - Funktionen (erweitert),,Unterschiedliche Preise je Verkaufskanal,"Gibt an, ob Sie für Ihre Produkte, die auf unterschiedlichen Verkaufskanälen (Webshop, ebay, amazon, etc.) gelistet sind, unterschiedliche Preise definieren können."
+Multichannel-Funktionalität für eBay,,Automatische ebay - Bewertungen,
+Multichannel-Funktionalität für eBay,,Direkte Unterstützung der eBay-Fahrzeugverwendungsliste (FVL) (nativ),
+Multichannel-Funktionalität für eBay,,Direkte Unterstützung der Motorradverwendungslisten von eBay (nativ),
+Multichannel-Funktionalität für eBay,,Ebay Auktionsabwicklung,
+Multichannel-Funktionalität für eBay,,Einstellen auf internationalen eBay-Marktplätzen aus System heraus (Länderportale getrennt ansprechbar),"Gibt an, ob Sie Ihre Produkte gezielt auf einzelnen ebay Länderportalen anbieten können."
+Multichannel-Funktionalität für eBay,,Mehrere Ebay-Accounts anbindbar/ verwaltbar (Anzahl),"Gibt an, ob und wie viele Ebay Verkäuferkonten mit dem Shop-Tarif verwaltet werden können."
+Multichannel-Funktionalität für Amazon,,amazon Länderportale getrennt ansprechbar,"Gibt an, ob Sie Ihre Produkte gezielt auf einzelnen amazon Länderportalen anbieten können."
+Multichannel-Funktionalität für Amazon,,Automatische Übertragung von Versandbestätigungen inkl. Sendungsnummer zu Amazon,"Gibt an, ob Sie Ihre Produkte gezielt auf einzelnen amazon Länderportalen anbieten können."
+Multichannel-Funktionalität für Amazon,,Direkte Preisanpassung auch für laufende Amazon-Angebote,"Gibt an, ob Sie Ihre Produkte gezielt auf einzelnen amazon Länderportalen anbieten können."
+Multichannel-Funktionalität für Amazon,,Optimiert für Amazon SEO,"Gibt an, ob Sie Ihre Produkte gezielt auf einzelnen amazon Länderportalen anbieten können."
+Multichannel-Funktionalität für Amazon,,VAT calculation service VCS - Umsatzsteuerberechnungsservice,"Gibt an, ob Sie Ihre Produkte gezielt auf einzelnen amazon Länderportalen anbieten können."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",2Checkout (Hosted),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",abaqoos - Zahlungsanbieter,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",adyen Payment Provider,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Alipay Global,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Alliedwallet,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",amazon pay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Authorize.net,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",B+S Card-Service,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",BARPAY,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Barzahlen (Bezahldienst),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",BeanStream,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Bigcommerce Payments,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Billpay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",BillSAFE,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",bitcoin,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Bluepay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",BPAY,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Braintree,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",BUCKAROO,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Caledon,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",CARDINALCOMMERCE,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Cardstream,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",cashcloud,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",CASHU,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Chase Paymentech (orbital),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ChronoPay Page (Hosted),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ClickandBuy/ Direkt Überweisung,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",computop,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Concardis,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",creditpass,Payment Solution Provider mit integrierter Bonitaetsauskunft
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",curabill,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Cybersource,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",CynergyData,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",DATACASH,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",datatrans.ch,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Dibspayment,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",DirectOne,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",docdata payments,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",dotpay,Polnischer Zahlungsanbieter
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Dwolla,Polnischer Zahlungsanbieter
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",epay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",eProcessingNetwork,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",eps Onlineüberweisung AT,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Euteller,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",evopayments (ehem. Deutsche Card Services),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",eWay UK (Hosted),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",expercash,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",FerBuy,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",FirstData (ehem. Yourpay),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Giropay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",GoInterpay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",gopay - Tschechischer Zahlungsdienstleister,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Heartland Payment Systems,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Heidelpay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",hipay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ICEPAY - Payment Provider,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",iclear,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ING / ideal,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ingenico,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Innovative Gateway,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",IntelliPay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ipay88,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",iPayment (1und1),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",iTransact,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",IWSmile (Hosted),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Klarna Checkout,Mobile Zahlungen mit E-Mailadresse und PLZ
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Klarna Ratenkauf /Rechnung,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Kreditkarten direkt,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Mastercard Kreditkarte (direkt),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Masterpayment,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",micropayment,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",montrada,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",mPAY24 (Österreich),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",MyVirtualMerchant (viakli),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",NETbilling,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Novalnet - Payment Provider,"Novalnet ist ein Paymentprovider, der weitere Dienste erbringen kann."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ogone/ viveum.at,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",pagseguro,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Paybox,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",paydirekt,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayJunction,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayLeap,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayMate (Hosted),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Paymentexpress Post,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Paymill,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PAYMORROW,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",paynova,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Payolution,Kauf auf Rechnung und Ratenzahlung. Teil der Skrill group. Als whitelabel Loesung einsetzbar.
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Payone,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayPal,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayPal Express,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayPal Payflow Pro,Beim Einsatz von Paypal Payflow Pro müssen Ihre Kunden im Checkout-Prozess zur Zahlung Ihren Shop nicht mehr verlassen. D.h. eine Weiterleitung zu Paypal ist nicht notwendig.
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayPal Plus,"Payment Provider enthält Kreditkarte, Paypal, Lastschrift und Rechnung."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayPoint,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Payprotect,Whitelabellösung für Rechnungs- und Lastschriftzahlungen.
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Paysafecard,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayStation,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PayU,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",payvector.co.uk,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",POLipayments - Australia,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Postbank Paysolution,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PostFinance/ yellowpay (Schweiz),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Postpay Checkout,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Przelewy24 - Polnischer Zahlungsanbieter,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",PSIGate,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Qpay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Quantum Gateway,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Quick Books Merchant Services,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",RatePAY,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",RealexPayments,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SAFECHARGE,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Saferpay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Sage Pay/Protx VSP Direct,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Santander - Ratenzahlung (Comfort Card),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Secure Trading (Hosted),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SecureNet,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SecurePay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Shopify Payments,Nehmen Sie Kreditkarten direkt ohne Drittanbieter-Paymentprovider entgegen. (Nur in USA und Kanada verfügbar).
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Skrill (Moneybookers),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SOFORT by Klarna (Sofortüberweisung),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SOFORTLastschrift by Klarna,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SOFORTRECHNUNG by Klarna,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Sparkassen-Internetkasse,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",spreedly,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SQUARE,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",stripe,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",SysPay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",TeleCash,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",transferuj,Polnischer Zahlungsanbieter
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",TRANSFIRST,Polnischer Zahlungsanbieter
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",ukash,Polnischer Zahlungsanbieter
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",USAePay,Polnischer Zahlungsanbieter
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",Valutec,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",VISA Kreditkarte (direkt),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",VR-Pay virtuell,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",WireCard,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter,"Gibt an, ob im jeweilige Tarif bereits eine funktionsfertige Anbindung an die folgenden Zahlungsanbieter enthalten ist.
+Angegebene Werte entsprechen Zusatzkosten pro Monat.",WorldPay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter - Mobile Payment,Hier finden Sie v.a. mobile ausgerichtete Payment Provider.,Google Pay (Google Checkout),"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter - Mobile Payment,Hier finden Sie v.a. mobile ausgerichtete Payment Provider.,MultiSafepay,"Gibt an, ob der Tarif eine funktionsfertige Anbindung an den jeweiligen Zahlungsanbieter ohne Code-Anpassungen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Zahlungsanbieter - Mobile Payment,Hier finden Sie v.a. mobile ausgerichtete Payment Provider.,Paypal QRShopping,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum Paypal QRShopping-System beinhaltet."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",Bpost - Belgien,
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DB Schenker Logistics,
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DHL Easylog,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister-Service beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DHL Intraship/ Versenden (inkl. DHL Express),"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DHL Retoure Online,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum Retoureportal von DHL beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DHL Supply Chain / 2-Mann-Handling,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DHL Track & Trace DASS – Online Direktaufrufschnittstelle,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum DHL XML - Tracking Dienst beinhaltet."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",DPD (Dynamic Parcel Distribution),"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",FedEx,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",GLS,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",Hermes,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",Hermes (2-Mann-Service),"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister-Service beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",iloxx,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",interkurier,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",Post.at (Österreich),"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",TNT - Versanddienstleister,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",trans-o-flex,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versanddienstleister (KEP-Dienstleister) (erweitert),"Gibt Auskunft darüber, ob der jeweilige Tarif eine direkte Schnittstelle zum jeweiligen Versanddienstleister bieten
+kann, z.B. zur Übertragung von Adressinformationen für Versandlabels.",UPS,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Versandlösungsanbieter,,Automatischer Ausdruck Zollinhaltserklärung via DHL (Zolldokumente CN23 und CP71),"Der internationale Versand mit DHL wird dank eines automatischen Ausdrucks der Zolldokumente CN23 und CP71 weltweit ermöglicht, bzw. vereinfacht. Es müssen bspw. lediglich die Angaben zu Gewicht und Herkunftsland in den Artikeldetails gepflegt werden."
+Versandlösungsanbieter,,coureon,"Coureon ist Ihr kostenloser Versandpartner, wenn Sie Zeit und vor allem Geld sparen möchten. Mit Coureon profitieren Sie von vergünstigten nationalen & internationalen Versandpreisen unserer Partner wie DHL, DPD, Hermes und der Deutschen Post. Zusätzlich können Sie den Versand für alle Produkte von verschiedenen Marktplätzen wie Ebay und Amazon und Ihrem eigenen Shop auf nur einer Plattform organisieren und durchführen."
+Versandlösungsanbieter,,Liefery - Lieferdienst,"Coureon ist Ihr kostenloser Versandpartner, wenn Sie Zeit und vor allem Geld sparen möchten. Mit Coureon profitieren Sie von vergünstigten nationalen & internationalen Versandpreisen unserer Partner wie DHL, DPD, Hermes und der Deutschen Post. Zusätzlich können Sie den Versand für alle Produkte von verschiedenen Marktplätzen wie Ebay und Amazon und Ihrem eigenen Shop auf nur einer Plattform organisieren und durchführen."
+Versandlösungsanbieter,,Packlink Pro,"Coureon ist Ihr kostenloser Versandpartner, wenn Sie Zeit und vor allem Geld sparen möchten. Mit Coureon profitieren Sie von vergünstigten nationalen & internationalen Versandpreisen unserer Partner wie DHL, DPD, Hermes und der Deutschen Post. Zusätzlich können Sie den Versand für alle Produkte von verschiedenen Marktplätzen wie Ebay und Amazon und Ihrem eigenen Shop auf nur einer Plattform organisieren und durchführen."
+Versandlösungsanbieter,,shipcloud,"Coureon ist Ihr kostenloser Versandpartner, wenn Sie Zeit und vor allem Geld sparen möchten. Mit Coureon profitieren Sie von vergünstigten nationalen & internationalen Versandpreisen unserer Partner wie DHL, DPD, Hermes und der Deutschen Post. Zusätzlich können Sie den Versand für alle Produkte von verschiedenen Marktplätzen wie Ebay und Amazon und Ihrem eigenen Shop auf nur einer Plattform organisieren und durchführen."
+Versandlösungsanbieter,,tiramizoo - Same Day Delivery Service,Same Day Delivery Zustelldienstleister
+Versandlösungsanbieter,,V-LOG - Versandsoftware,Same Day Delivery Zustelldienstleister
+CRM-Systeme (erweitert),"Hier finden Sie Kundenmanagement-Systeme, die Spezialfunktionen für die Pflege und Verwaltung von Kundenbeziehungen
+bieten.",Freshdesk CRM,Helpdesk-Software für den Kundensupport
+CRM-Systeme (erweitert),"Hier finden Sie Kundenmanagement-Systeme, die Spezialfunktionen für die Pflege und Verwaltung von Kundenbeziehungen
+bieten.",GREYHOUND CRM,GREYHOUND CRM ermöglicht eine Zentralisierung und Management von Kundenserviceanfragen und -abläufen.
+CRM-Systeme (erweitert),"Hier finden Sie Kundenmanagement-Systeme, die Spezialfunktionen für die Pflege und Verwaltung von Kundenbeziehungen
+bieten.",salesforce CRM,"Gibt an, ob Ihr System eine Schnittstelle zum jeweiligen CRM-System beinhaltet."
+CRM-Systeme (erweitert),"Hier finden Sie Kundenmanagement-Systeme, die Spezialfunktionen für die Pflege und Verwaltung von Kundenbeziehungen
+bieten.",zendesk CRM,"Gibt an, ob Ihr System eine Schnittstelle zum jeweiligen CRM-System beinhaltet."
+Fulfillment - Anbieter (erweitert),,bi-log,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,DHL Fulfillment (eparcel),"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Doba,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,docdata,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,eSellers Friend,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Fulfillment by Amazon (FBA/ EFN) Anbindung (API) mit FBA-SKU-Verwaltung,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,fuljoyment,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,GeoPost Logistik,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Ids-logistik,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten Versanddienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Ilopack,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,KNO Logistik,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,LKV Logistik,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,PVS Fulfillment,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Rhenus (TVA) Logistics,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Rudolph Logistik,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,shippingcenter.de,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Shipwire,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,Webgistix,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Fulfillment - Anbieter (erweitert),,YouSellWeSend,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in die Fulfillment Infrastruktur des Fulfillment-Anbieters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Middleware (erweitert),,Atandra T-HUB,
+Middleware (erweitert),,Brickfox,
+Middleware (erweitert),,cludes,
+Middleware (erweitert),,efulfilment,
+Middleware (erweitert),,emMida - Speed4Trade,"Gibt an, ob der Tarif eine Schnittstelle zur emMida Lösung bietet. Kosten."
+Middleware (erweitert),,Lexshop24,Schnittstellenanbieter zu Lexare Warenwirtschaft
+Middleware (erweitert),,Ontrado,Schnittstellenanbieter zu Lexare Warenwirtschaft
+Middleware (erweitert),,Oscware,Schnittstellenanbieter zu Lexare Warenwirtschaft
+Middleware (erweitert),,sellerfun,Schnittstellenanbieter zu Lexare Warenwirtschaft
+Middleware (erweitert),,Tradebyte TB.One,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten ERP/ Verkaufsabwicklungsprogramm beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat, wenn die Schnittstelle kostenpflichtig ist."
+Middleware (erweitert),,yes4trade,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zum genannten ERP/ Verkaufsabwicklungsprogramm beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat, wenn die Schnittstelle kostenpflichtig ist."
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",Amazon S3,
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",audriga,"Gibt an, ob der Tarif eine Schnittstelle zum Datenumzugsanbieter audriga beinhaltet."
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",Beny - Repricing,"Gibt an, ob der Tarif eine funktionierende Anbindung an das Multichannel-Repricing-Tool Beny besitzt."
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",DCI - Datenblatt Dienstleister,"Gibt an, ob der Tarif eine funktionierende Anbindung an das Multichannel-Repricing-Tool Beny besitzt."
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",dropbox - Datenspeicherdienst (z.B. für Backup),"Gibt an, ob der Tarif eine funktionierende Anbindung an das Multichannel-Repricing-Tool Beny besitzt."
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",endicia - Versandlabel Dienstleister,"Gibt an, ob der Tarif eine funktionierende Anbindung an das Multichannel-Repricing-Tool Beny besitzt."
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",Kanalübergreifender Wettbewerbs-Preisvergleich und Preisverlauf,Mithilfe einer Preisvergleichs-Funktion mit anderen Marktplätzen und Preissuchmaschinen erhalten Sie einen Überblick über die Preise der Konkurrenz für das gleiche Produkt.
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",OnbikeX Fahrraddaten - Import / velo.connect,Mithilfe einer Preisvergleichs-Funktion mit anderen Marktplätzen und Preissuchmaschinen erhalten Sie einen Überblick über die Preise der Konkurrenz für das gleiche Produkt.
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",Patagona Repricing,Mithilfe einer Preisvergleichs-Funktion mit anderen Marktplätzen und Preissuchmaschinen erhalten Sie einen Überblick über die Preise der Konkurrenz für das gleiche Produkt.
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.",TecDoc-Anbindung,Mithilfe einer Preisvergleichs-Funktion mit anderen Marktplätzen und Preissuchmaschinen erhalten Sie einen Überblick über die Preise der Konkurrenz für das gleiche Produkt.
+Tools - Anbindung (erweitert),"Hier finden Sie Angaben über die Schnittstelle des Tarifs zu Tools und Diensten, die Ihre Marketing-Ergebnisse
+erleichtern können.","zmags - Digitale Verlagssoftware für Kataloge, Magazine","Gibt an, ob das System eine Schnittstelle zur digitalen Verlagssoftware zmags beinhaltet."
+Produktfeed-Anbieter / Schnittstellenanbieter (erweitert),Hier finden Sie Anbieter zur Unterstützung Ihrer Multichannel-Vermarktung.,Channable - Tool für Management Verkaufskanäle,
+Produktfeed-Anbieter / Schnittstellenanbieter (erweitert),Hier finden Sie Anbieter zur Unterstützung Ihrer Multichannel-Vermarktung.,ChannelPilot,Channelpilot bringt Ihre Produkte auf bis zu 140 Shopping-Portale.
+Produktfeed-Anbieter / Schnittstellenanbieter (erweitert),Hier finden Sie Anbieter zur Unterstützung Ihrer Multichannel-Vermarktung.,Lengow.de,Channelpilot bringt Ihre Produkte auf bis zu 140 Shopping-Portale.
+Produktfeed-Anbieter / Schnittstellenanbieter (erweitert),Hier finden Sie Anbieter zur Unterstützung Ihrer Multichannel-Vermarktung.,magnalister,Channelpilot bringt Ihre Produkte auf bis zu 140 Shopping-Portale.
+Produktfeed-Anbieter / Schnittstellenanbieter (erweitert),Hier finden Sie Anbieter zur Unterstützung Ihrer Multichannel-Vermarktung.,Synesty,Channelpilot bringt Ihre Produkte auf bis zu 140 Shopping-Portale.
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",collmex,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Datev Rechnungswesen compact,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Dekodi - Nexus - Zahlungsabgleichservice,Software für automatisierte Buchhaltung
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Exact Online Buchhaltung & Warenwirtschaft,Software für automatisierte Buchhaltung
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Lexware Buchhalter,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",microtech Büro+,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Myob - Buchhaltung,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Nitrobox,"Nitrobox Accounting – so geht E-Commerce Buchhaltung heute. Die Nitrobox holt alle Bestellungen vollautomatisch aus Ihrem System ab, erstellt Rechnungen und Gutschriften, gleicht offene Forderungen mit Ihren Zahlungskanälen ab und verbucht diese automatisch - kostengünstig, flexibel und in Echtzeit."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",PAYJOE,PAYJOE ermöglicht die anpassbare Übermittlung von Daten von Zahlungsdienstleistern in Ihre Warenwirtschaft/ Buchhaltung mittels einer HBCI Emulation.
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Quickbooks,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zum genannten Warenwirtschaftssystem beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",Sage Buchhaltung,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",snelstart - Buchhaltung,"Gibt an, ob der Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",syska,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Finanzbuchhaltungs-Anbieter (FiBu) (erweitert),"Hier finden Sie Buchhaltungssoftware, dessen Schnittstellen zu den einzelnen Tarifen verglichen werden kann.",XCOUNT,"Gibt an, ob der Shop-Tarif eine funktionsfertige Schnittstelle zur genannten Buchhaltungssoftware beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,bcom.de,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,BHS Binkert,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,COP - Distributoren-Netzwerk,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,dexxIT,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,Eigener Fulfillment-Service,"Gibt an, ob der Tarif, bzw. dessen Hersteller eine eigenständige Fulfillment Dienstleistung anbietet."
+Distributoren (erweitert),,Ingram Micro,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,Intos Electronic Distribution,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,ITScope - Distributorenpreisvergleich,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Distributoren (erweitert),,KOMSA,"Gibt an, ob der Tarif eine existierende Schnittstelle zum angegebenen Distributor beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Inkasso & Bonitäts-Dienstleister (erweitert),Hier finden Sie Inkasso Dienste welche Schnittstellen zu Shopsystemen anbieten.,atriga Inkasso,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in Infrastruktur des Inkasso-Dienstleisters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Inkasso & Bonitäts-Dienstleister (erweitert),Hier finden Sie Inkasso Dienste welche Schnittstellen zu Shopsystemen anbieten.,Bonitätsprüfung mit Bürgel,"Gibt an, ob der Anbieter eine funktionsfertige Schnittstelle zum Dienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Inkasso & Bonitäts-Dienstleister (erweitert),Hier finden Sie Inkasso Dienste welche Schnittstellen zu Shopsystemen anbieten.,Bonitätsprüfung mit firstdebit.de,"Gibt an, ob der Anbieter eine funktionsfertige Schnittstelle zum Dienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Inkasso & Bonitäts-Dienstleister (erweitert),Hier finden Sie Inkasso Dienste welche Schnittstellen zu Shopsystemen anbieten.,Bonitätsprüfung vorbereitet,"Gibt an, ob der Anbieter eine funktionsfertige Schnittstelle zum Dienstleister beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat. an, ob der Shop-Tarif eine funktionsfertige Lösung zur Überprüfung der Bonität von Kunden beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Inkasso & Bonitäts-Dienstleister (erweitert),Hier finden Sie Inkasso Dienste welche Schnittstellen zu Shopsystemen anbieten.,Inkasso Arnold,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in Infrastruktur des Inkasso-Dienstleisters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Inkasso & Bonitäts-Dienstleister (erweitert),Hier finden Sie Inkasso Dienste welche Schnittstellen zu Shopsystemen anbieten.,Mediafinanz - Inkasso,"Gibt an, ob der Tarif bereits eine funktionsfertige Anbindung in Infrastruktur des Inkasso-Dienstleisters beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Shopsysteme,,CHAMELEON,
+Shopsysteme,,Demandware,
+Shopsysteme,,Gambio,
+Shopsysteme,,IBM Websphere Commerce,
+Shopsysteme,,INTELLISHOP,
+Shopsysteme,,Intershop,
+Shopsysteme,,Lightspeed (SEOSHOP),
+Shopsysteme,,Magento,
+Shopsysteme,,modified,
+Shopsysteme,,oscommerce.de,
+Shopsysteme,,OXID,
+Shopsysteme,,PrestaShop,
+Shopsysteme,,Shopware,
+Shopsysteme,,Websale,
+Shopsysteme,,xt:Commerce (auch Veyton),
+Shopsysteme,,Zen Cart,
+Hosting,Hier können Sie Details der Hosting-Eigenschaften der E-Commerce Lösung vergleichen.,Auf Amazon Web Services gehostet (AWS),
+Hosting,Hier können Sie Details der Hosting-Eigenschaften der E-Commerce Lösung vergleichen.,Hosting/ Webspace/ Speicherplatz enthalten (in MB),"Gibt an, ob und welche Webspacespeichergröße im Tarif enthalten ist."
+Hosting,Hier können Sie Details der Hosting-Eigenschaften der E-Commerce Lösung vergleichen.,Testsystem / Sandbox,"Gibt an, ob der Tarif eine (paralleles) Testsystem zum Testen neuer Funktionen beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Hosting,Hier können Sie Details der Hosting-Eigenschaften der E-Commerce Lösung vergleichen.,Uptime Monitoring 24 / 7 / 365,"Gibt an, ob der Tarif eine eigenständige Funktion zum Monitoring des Shops beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Hosting,Hier können Sie Details der Hosting-Eigenschaften der E-Commerce Lösung vergleichen.,Traffic/ Bandbreite pro Monat in GB inkl.,"Gibt an, welche Datenmenge pro Monat im Tarif enthalten ist."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Antivirus-Schutz integriert,"Gibt an, ob im jeweilige Tarif die angegebene Funktion zur Verwendung bereit steht. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Automatisches Backup durch Anbieter,"Gibt an, ob im jeweilige Tarif eine automatische Backup gegen Hardwareausfälle beinhaltet ist. Es lassen sich jedoch nicht immer einzelne Inhalte wiederherstellen."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Automatisches eigenes tägliches Backup,"Gibt an, ob im jeweilige Tarif eine automatische Backup-Funktion Ihrer individuellen Shopdateien beinhaltet ist. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,E-Mail-Blocking für bestimmte Domains (Einmal Adressen),"Gibt an, ob für Registrierung oder Bestellungen bestimmte E-Mail Domain Adressen geblockt werden können."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,"Eigenes, vorhandenes SSL-Zertifikat verwendbar",
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Firewall,"Gibt an, ob im jeweilige Tarif Firewall-Funktionen beinhaltet sind. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,"Manuelles, eigenes Backup möglich","Gibt an, ob im jeweilige Tarif eine manuelle Backups erstellt und wiederhergestellt werden können. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Speicherung aller Backendvorgänge je User möglich,"Gibt an, ob im jeweilige Tarif eine manuelle Backups erstellt und wiederhergestellt werden können. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Spiegelung/ Georedundanz der Daten,"Gibt an, ob der Tarif eine Spiegelung Ihres Shops in ein separates Rechenzentrum ermöglicht."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,SSL-Verschlüsselung (shared/ proxy),"Gibt an, ob der Tarif shared SSL Zertifikate beinhaltet. Diese stellen die Identität des Hosters, jedoch nicht Ihre spezifische Domain-Identität sicher. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Tracking verdächtiger/ auffälliger Besucher-Aktivitäten,"Gibt an, ob der Tarif ein eigenständiges System zum Loggen verdächtiger User Aktivitäten(Hacking, Login-Versuche, etc.) beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Verschlüsselungsmechanismen (z.b. für Login-Daten/ Passwort),"Gibt an, ob der Tarif ein eigenständiges Verschlüsselungssystem beinhaltet. Etwaige angegebene Werte entsprechen Zusatzkosten pro Monat."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Zugang zum Backend nur mit bestimmter IP Adresse,"Gibt an, ob Sie im Tarif den Zugang zum Backend auf eine feste IP Adresse beschränken können."
+Sicherheit (erweitert),Hier finden Sie Auskünfte über die Sicherheit verschiedener Tarife und -Systeme.,Zwei-Faktor-Authentifizierung,"Zusätzliche Sicherheit gegen Phishing Angriffe, meistens durch zusätzliche Anmeldung via Mobilfunkrufnummer."
+Performance (erweitert),,Transparente Serverstatus-Anzeige,"Gibt an, ob der Anbieter eine Webseite zur akutellen Bekanntgabe der verschiedenen Server Dienste (Hosting, API, Mailsystem, etc.) anbietet."
+Performance (erweitert),,Garantierte Uptime des Tarifs in %,"Gibt an, welche prozentuale Verfügbarkeit pro Jahr für den jeweiligen Shop-Tarif garantiert wird."
+Programmierung & Technisches (erweitert),,,
+Programmierung & Technisches (erweitert),,,
+Programmierung & Technisches (erweitert),,,
+Programmierung & Technisches (erweitert),,,
